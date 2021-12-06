@@ -1,0 +1,17 @@
+TY  - JOUR
+AB  - Purpose The purpose of this paper is to describe the need for academic libraries to demonstrate and increase their impact of student learning and success. It highlights the data problems present in existing library value correlation research and suggests a pathway to surmounting existing data obstacles. The paper advocates the integration of libraries into institutional learning analytics systems to gain access to more granular student learning and success data. It also suggests using library-infused learning analytics data to discover and act upon new linkages that may reveal library value in an institutional context.Design/methodology/approach The paper describes a pattern pervasive in existing academic library value correlation research and identifies major data obstacles to future research in this vein. The paper advocates learning analytics as one route to access more usable and revealing data. It also acknowledges several challenges to the suggested approach.Findings This paper describes learning analytics as it may apply to and support correlation research on academic library value. While this paper advocates exploring the integration of library data and institutional data via learning analytics initiatives, it also describes four challenges to this approach including librarian concerns related to the use of individual level data, the tension between claims of correlation and causation in library value research, the need to develop interoperability standards for library data and organizational readiness and learning analytics maturity issues.Originality/value This paper outlines a path forward for academic library value research that may otherwise be stymied by existing data difficulties.
+VL  - 119
+IS  - 1/2
+SN  - 2398-5348
+DO  - 10.1108/ILS-08-2017-0080
+UR  - https://doi.org/10.1108/ILS-08-2017-0080
+AU  - Oakleaf Megan
+PY  - 2018
+Y1  - 2018/01/01
+TI  - The problems and promise of learning analytics for increasing and demonstrating library value and impact
+T2  - Information and Learning Science
+PB  - Emerald Publishing Limited
+SP  - 16
+EP  - 24
+Y2  - 2020/03/23
+ER  - 
