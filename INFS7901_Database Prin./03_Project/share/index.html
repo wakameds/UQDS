@@ -1,0 +1,13 @@
+<form method="POST" action="{{ url_for('index') }}">
+
+    Name <input type="text" name="name" />
+      <br>
+
+    Email <input type="email" name="email" />
+      <br> 
+    RequestType <select id="RequestType" name = "RequestType" >
+     <option selected value="1">New</option>
+     <option value="0">Old</option>
+    </select><br>  
+    <input type="Submit">
+    </form>
